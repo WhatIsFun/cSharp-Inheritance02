@@ -8,13 +8,21 @@ namespace cSharp_Override
 {
     abstract class Animal
     {
-        public string Name;
-        public int age;
-        public string sound;
-        public virtual void makeSound()
+        
+        public Animal ()
         {
-            Console.WriteLine("Animal Sound");
+
+        }
+        public virtual void makeNoise()
+        {
+            Console.WriteLine("I make some noise.");
         }
 
-    }
+        public virtual void Eat()
+        {
+            Console.WriteLine("I eat some food.");
+        }
+
+
+        }
 }

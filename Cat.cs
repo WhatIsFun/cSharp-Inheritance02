@@ -8,10 +8,17 @@ namespace cSharp_Override
 {
     internal class Cat : Animal
     {
-
-        public override void makeSound()
+        public Cat()
         {
-            Console.WriteLine("Cat Sound");
+        }
+
+        public override void makeNoise()
+        {
+            Console.WriteLine("Meow");
+        }
+        public override void Eat()
+        {
+            Console.WriteLine("I eat cat food.");
         }
     }
 }

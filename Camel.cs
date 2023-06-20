@@ -8,11 +8,11 @@ namespace cSharp_Override
 {
     internal class Camel : Animal
     {
-        public Camel(string name, int age, string sound) : base(name, age, sound)
+        public Camel()
         {
         }
 
-        public override void makeSound()
+        public override void makeNoise()
         {
             Console.WriteLine("Camel Sound");
         }
