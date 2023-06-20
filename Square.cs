@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace cSharp_Override
 {
-    internal class Square:Shape
-    {
-        private int side;
-        public Square (int n) => side = n;
+    //internal class Square:Shape
+    //{
+    //    private int side;
+    //    public Square (int n) => side = n;
 
-        public override int GetArea() => side*side;
+    //    public override int GetArea() => side*side;
         
         
-    }
+    //}
 }

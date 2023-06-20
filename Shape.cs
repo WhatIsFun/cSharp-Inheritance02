@@ -8,6 +8,10 @@ namespace cSharp_Override
 {
     abstract class Shape
     {
-        public abstract int GetArea();
+        public abstract double GetArea();
+
+        public abstract double GetPerimeser();
+
+
     }
 }
