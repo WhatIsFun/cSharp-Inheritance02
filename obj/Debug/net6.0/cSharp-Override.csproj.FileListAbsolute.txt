@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\bin\Debug\net6.0\cSharp-Override.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\bin\Debug\net6.0\cSharp-Override.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\bin\Debug\net6.0\cSharp-Override.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\bin\Debug\net6.0\cSharp-Override.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\bin\Debug\net6.0\cSharp-Override.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\obj\Debug\net6.0\cSharp-Override.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\obj\Debug\net6.0\cSharp-Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\obj\Debug\net6.0\cSharp-Override.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\obj\Debug\net6.0\cSharp-Override.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\obj\Debug\net6.0\cSharp-Override.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\obj\Debug\net6.0\cSharp-Override.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\obj\Debug\net6.0\refint\cSharp-Override.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\obj\Debug\net6.0\cSharp-Override.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\obj\Debug\net6.0\cSharp-Override.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Override\cSharp-Override\obj\Debug\net6.0\ref\cSharp-Override.dll
